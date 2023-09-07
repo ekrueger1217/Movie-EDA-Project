@@ -1,1 +1,1 @@
-# Phase-2---Movie-EDA-Project
+# Movie EDA Project
