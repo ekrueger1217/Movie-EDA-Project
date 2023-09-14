@@ -14,8 +14,8 @@ RE Corp. is excited to announce our latest venture RE Studios. As we devise our 
 In building this business case, we analyzed data from Rotten Tomatoes, IMDB, TheMovieDB, and The Numbers. The Rotten Tomatoes dataset contains ~54k reviews of films and ~1.5k records of film information, such as synopsis, genre, release date, and runtime. The IMDB dataset contains ~260k records. To address our specific interests, we removed duplicate films from the IMDB dataset, reduced this dataset to include only films that were released in english speaking regions (United States, Canada, Great Britain, Austrailia, Ireland, and New Zealand), removed films that had less that 50 rating votes, and including only films that had runtime information listed, resulting in a dataset of ~19k records. TheMovieDB dataset contains ~27k records with film titles, ratings, language, and genres. The Numbers dataset contains ~6k records with movie id's, release dates, and financial information such as production budget, domestic gross revenue, and worldwide gross revenue. These datasets were observed individually and in combination with each other to assess historical film performance in terms of various metrics.
 
 ### Analysis and Business Recommendations
-1. We intend on pursuing projects that require ~$4M in funding and believe with 95% confidence, these films will have a mean ROI between xx13% to 25%xx
-    * For investors seeking a higher relative return, we will focus on films <$1M
+1. We intend on pursuing projects that require ~$4M in funding and believe with 95% confidence, these films will have a mean ROI between 8 to 12x investment
+    * For investors seeking a higher relative return, we will focus on films <$1M with 95% confidence the ROI will be between 6-14x investment
     * For riskier investors seeking higher absolute returns, we are willing to accept budgets in the $3-4M range
       
 ![graph1](./images/Budget_&_ROI.png)
@@ -51,7 +51,7 @@ In building this business case, we analyzed data from Rotten Tomatoes, IMDB, The
 
 ## Conclusion
 With the below insights driving decision making, we are beyond excited for what the future holds at RE Studios and are confident success is imminent.
-1. We intend on pursuing projects that require ~$4M in funding and believe with 95% confidence, these films will have a mean ROI between xx13% to 25%xx
+1. We intend on pursuing projects that require ~$4M in funding and believe with 95% confidence, these films will have a mean ROI between 8-12x investment
 2. We'll focus on the following genres to optimize ROI and ratings: i) Musical, ii) Animation, iii) Family,  iv) Mystery, and Horror
 3. We will plan our releases for April, July, October, and November, as films released in these months have historically had the highest average ROI's, and we have devised a genre based annual release schedule
 4. We'll aim to work with writers and directors whose prior films are highly rated in comparison to peers, and we will encourage writers to participate in direction
