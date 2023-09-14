@@ -31,23 +31,23 @@ In building this business case, we analyzed data from Rotten Tomatoes, IMDB, The
 3. We will plan our releases for April, July, October, and November, as films released in these months have historically had the highest average ROI's
     * Additionally,each year we'll devise a genre based annual launch schedule with animation films released in April, mystery/horror films realeased in July, horror films released in October, and musical films released in November
   
-![graph3](.images/ROI_by_month.png)
+![graph3](./images/ROI_by_month.png)
 
-![graph4](.images/ROI_by_genre_by_month.png)
+![graph4](./images/ROI_by_genre_by_month.png)
 
 4. We aim to work with writers and directors whose prior films are highly rated in comparison to peers
     * We found that at a 95% confidence level, movies that have a solor director on average are rated higher than movies that have a group of directors
     * With that, we'd like to wor with directors who not only have a history of directing highly rated movies but also have done so on projects where they are the sole director, such as Quentin Tarantino, Christopher Nolan, and Martin Scorcese among others shown below.
 
-![graph5](.images/top_directors.png)
+![graph5](./images/top_directors.png)
 
-![graph6](.images/top_solo_directors.png)
+![graph6](./images/top_solo_directors.png)
 
   * Additionally we'd like to work with writers whose prior films have been highly rated such as Jim Starlin, Christopher Nolan, and Mark Monroe
   * We also found that at a 95% confidence level, films where the writer also directs are on average rated higher than films where the writer is not involved in direction
   * With that, we'd like to encourage writers we're working with to also direct their films and believe this could result in cost savings as well
 
-![graph7](.images/top_writers.png)
+![graph7](./images/top_writers.png)
 
 ## Conclusion
 With the below insights driving decision making, we are beyond excited for what the future holds at RE Studios and are confident success is imminent.
