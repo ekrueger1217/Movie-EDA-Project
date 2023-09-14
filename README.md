@@ -53,7 +53,7 @@ In building this business case, we analyzed data from Rotten Tomatoes, IMDB, The
 With the below insights driving decision making, we are beyond excited for what the future holds at RE Studios and are confident success is imminent.
 1. We intend on pursuing projects that require ~$4M in funding and believe with 95% confidence, these films will have a mean ROI between 8-12x investment
 2. We'll focus on the following genres to optimize ROI and ratings: i) Musical, ii) Animation, iii) Family,  iv) Mystery, and Horror
-3. We will plan our releases for April, July, October, and November, as films released in these months have historically had the highest average ROI's, and we have devised a genre based annual release schedule
+3. We will plan our releases for February, July, October, and November, as films released in these months have historically had the highest average ROI's, and we have devised a genre based annual release schedule
 4. We'll aim to work with writers and directors whose prior films are highly rated in comparison to peers, and we will encourage writers to participate in direction
 
 ## Additional Considerations and Next Steps
