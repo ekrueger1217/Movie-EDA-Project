@@ -28,7 +28,7 @@ In building this business case, we analyzed data from Rotten Tomatoes, IMDb, The
   
 ![graph2](./images/Genre_Graphs.png)
 
-3. We will plan our releases for April, July, October, and November, as films released in these months have historically had the highest average ROI's
+3. We will plan our releases for February, April, July, October, and November, as films released in these months have historically had the highest average ROI's
     * Additionally,each year we'll devise a genre based annual launch schedule with family movies released in February; Mystery, Horror, and Thrillers released in April, July, and October; and Musicals relased in November
   
 ![graph3](./images/ROI_by_month.png)
