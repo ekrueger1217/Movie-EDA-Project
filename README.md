@@ -20,30 +20,30 @@ In building this business case, we analyzed data from Rotten Tomatoes, IMDb, The
       
 ![graph1](./images/Budget_&_ROI.png)
 
-2. We'll focus on the following genres to optimize ROI and ratings: i) Musical, ii) Animation, iii) Family,  iv) Mystery, and Horror
+2. We'll focus on the following genres to optimize ROI and ratings: i) Musical, ii) Mystery, iii) Horror,  iv) Thriller, and Family
     * Profitability will serve as primary driver in decision making; however, rating will play a part as producing highly rated movies is crucial in establishing legitimacy in the industry
     * Musicals tend to have the highest average ROI and fifth highest average rating in comparison to other genres (excluding outliers who's ROI is in the top 2% of the dataset)
-    * Animation, Family, and Mystery also have relatively high aveage ROI's while also, on average, receiving high ratings from critics
+    * Mystery, Thriller, and Family also have relatively high aveage ROI's while also, on average, receiving high ratings from critics
     * Although horror films are on average not highly rated in comparison to other genres, they do on average have high ROI's, as many horror films are inexpensive to make and garner massive cult followings with the potential to be catapulted to main stream success
   
 ![graph2](./images/Genre_Graphs.png)
 
 3. We will plan our releases for April, July, October, and November, as films released in these months have historically had the highest average ROI's
-    * Additionally,each year we'll devise a genre based annual launch schedule with animation films released in April, mystery/horror films realeased in July, horror films released in October, and musical films released in November
+    * Additionally,each year we'll devise a genre based annual launch schedule with family movies released in February; Mystery, Horror, and Thrillers released in April, July, and October; and Musicals relased in November
   
 ![graph3](./images/ROI_by_month.png)
 
 ![graph4](./images/ROI_by_genre_by_month.png)
 
-4. We aim to work with writers and directors whose prior films are highly rated in comparison to peers
-    * We found that at a 95% confidence level, movies that have a solor director on average are rated higher than movies that have a group of directors
-    * With that, we'd like to wor with directors who not only have a history of directing highly rated movies but also have done so on projects where they are the sole director, such as Quentin Tarantino, Christopher Nolan, and Martin Scorcese among others shown below.
+4. We aim to work with writers and directors whose prior films in the genres we're focussed on are highly rated in comparison to peers
+    * We found that at a 95% confidence level, movies that have a solo director on average are rated higher than movies that have a group of directors
+    * With that, we'd like to work with directors who not only have a history of directing highly rated movies but also have done so on projects where they are the sole director, such as Damien Chazelle, Spike Lee, and Jordan Peele among others shown below.
 
 ![graph5](./images/top_directors.png)
 
 ![graph6](./images/top_solo_directors.png)
 
-  * Additionally we'd like to work with writers whose prior films have been highly rated such as Jim Starlin, Christopher Nolan, and Mark Monroe
+  * Additionally we'd like to work with writers whose prior films in the genres we're focussed on have been highly rated such as Quentin Tarantino, Alain Boubil, and Claude-Michael Schonberg among others
   * We also found that at a 95% confidence level, films where the writer also directs are on average rated higher than films where the writer is not involved in direction
   * With that, we'd like to encourage writers we're working with to also direct their films and believe this could result in cost savings as well
 
@@ -52,9 +52,10 @@ In building this business case, we analyzed data from Rotten Tomatoes, IMDb, The
 ## Conclusion
 With the below insights driving decision making, we are beyond excited for what the future holds at RE Studios and are confident success is imminent.
 1. We intend on pursuing projects that require ~$4M in funding and believe with 95% confidence, these films will have a mean ROI between 8-12x investment
-2. We'll focus on the following genres to optimize ROI and ratings: i) Musical, ii) Animation, iii) Family,  iv) Mystery, and Horror
+2. We'll focus on the following genres to optimize ROI and ratings: i) Musical, ii) Mystery, iii) Horror, iv) Thriller, v) Family
 3. We will plan our releases for February, July, October, and November, as films released in these months have historically had the highest average ROI's, and we have devised a genre based annual release schedule
 4. We'll aim to work with writers and directors whose prior films are highly rated in comparison to peers, and we will encourage writers to participate in direction
+
 
 ## Additional Considerations and Next Steps
 1. We'd like to dive deeper into how budget and ROI are related on a by genre basis
