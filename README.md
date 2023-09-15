@@ -63,5 +63,5 @@ With the below insights driving decision making, we are beyond excited for what 
 3. In choosing films and hiring directors, we'd like to perform cost saving analysis associated with having writers participate in direction of their films
 
 ## Additional Materials
-Please review our full analysis in our [Jupyter Notebook](xx) or our [Presentation](xx) . 
+Please review our full analysis in our [Jupyter Notebook](./Movies-EDA-&-Stats-Analysis.ipynb) or our [Presentation](./Movie_EDA_&_Stats_Presentation.pdf) . 
 
